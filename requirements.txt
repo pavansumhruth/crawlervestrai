@@ -1,0 +1,6 @@
+Flask==3.0.2
+Crawl4AI==0.4.247
+python-dotenv==1.0.1
+pydantic==2.10.6
+requests==2.31.0
+google-generativeai==0.4.0  # If using Gemini API
